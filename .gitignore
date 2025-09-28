@@ -1,0 +1,19 @@
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+.venv/
+
+# Ignore dataset videos (too large for git)
+data/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
+
+# Ignore model checkpoints (optional, unless you want to share weights)
+*.pt
+*.onnx
