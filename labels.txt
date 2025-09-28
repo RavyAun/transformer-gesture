@@ -1,0 +1,3 @@
+swipe_left
+swipe_right
+stop
