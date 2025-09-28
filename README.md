@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
+![ONNX](https://img.shields.io/badge/ONNX-runtime-green.svg)
+![Gradio](https://img.shields.io/badge/Gradio-app-orange.svg)
+
 # Transformer Gesture Recognition 🎥➡️🤖  
 
 This project shows how to build a **Transformer-based gesture recognition system** using PyTorch, ONNX, and Gradio. You’ll train on a small dataset, export to ONNX for faster inference, and run a real-time demo app.  
